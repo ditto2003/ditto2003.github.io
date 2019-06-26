@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## It can change here
 
 You can use the [editor on GitHub](https://github.com/ditto2003/ditto2003.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+You can also insert a link like [Name shown](www.sina.com.cn)
+
+# font number 1
+## smaller 2
+### smaller 3
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
