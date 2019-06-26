@@ -2,7 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/ditto2003/ditto2003.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-You can also insert a link like [Name shown](www.sina.com.cn)
+You can also insert a link like [Name shown](http://www.sina.com.cn)
+
+1 do
+2 what
+3 who
 
 # font number 1
 ## smaller 2
