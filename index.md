@@ -4,9 +4,16 @@ You can use the [editor on GitHub](https://github.com/ditto2003/ditto2003.github
 
 You can also insert a link like [Name shown](http://www.sina.com.cn)
 
-1 do
-2 what
-3 who
+1. do
+2. what
+3. who
+
+* do
+* what
+* who
+- do
+  - what
+  - who
 
 # font number 1
 ## smaller 2
