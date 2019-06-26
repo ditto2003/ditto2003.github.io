@@ -15,7 +15,14 @@ You can also insert a link like [Name shown](http://www.sina.com.cn)
   - what
   - who
   
-3. image can be done like thi  ![Image of Yaktocat](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%B2%88%E9%98%B3&step_word=&hs=0&pn=2&spn=0&di=43120&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2917778752%2C1504617715&os=3527422044%2C2415351727&simid=45837675%2C496904327&adpicid=0&lpn=0&ln=1730&fr=&fmq=1561514911999_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimg8.zol.com.cn%2Fbbs%2Fupload%2F19666%2F19665453.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3F1vkkf_z%26e3Bz5s_z%26e3Bv54_z%26e3BvgAzdH3FdAzdH3Fda_889c9_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
+3. image can be done like this 
+![Image of Shenyang](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%B2%88%E9%98%B3&step_word=&hs=0&pn=2&spn=0&di=43120&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2917778752%2C1504617715&os=3527422044%2C2415351727&simid=45837675%2C496904327&adpicid=0&lpn=0&ln=1730&fr=&fmq=1561514911999_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fimg8.zol.com.cn%2Fbbs%2Fupload%2F19666%2F19665453.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3F1vkkf_z%26e3Bz5s_z%26e3Bv54_z%26e3BvgAzdH3FdAzdH3Fda_889c9_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
+
+
+quote
+
+> My daughter said
+
 
 # font number 1
 ## smaller 2
