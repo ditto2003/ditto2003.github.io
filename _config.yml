@@ -1,3 +1,68 @@
-theme: jekyll-theme-cayman
-title: welcome to ditto2003 homepage
-description: Let's see what happen
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
+
+title: Yu Zhang
+subtitle: A Ph.D student in Mechanical Engineering, McMaster University
+
+# Side Menu Links
+menu:
+  - text: Home
+    link: /
+    icon: ""
+
+  - text: Research
+    link: /research
+    icon: ""
+
+  - text: Resume
+    link: /resume
+    icon: ""
+
+  - text: Contact Me
+    link: /contact
+    icon: ""
+# Socialmedia Icons
+social_icons:
+  - name: linkedin
+    link: https://www.linkedin.com/in/yuzhang8/
+    icon: fab fa-linkedin
+    
+  - name: google_scholar
+    link: https://scholar.google.com/xxx
+    icon: fab fa-google
+
+  # - name: twitter
+  #   link: https://twitter.com/xxx
+  #   icon: fab fa-twitter
+
+  - name: github
+    link: https://github.com/ditto2003
+    icon: fab fa-github-square
+
+
+
+#   - name: facebook
+#     link: https://www.facebook.com/xxx
+#     icon: fab fa-facebook-square
+
+# Google Analytics
+google_analytics: UA-143782507-1
+google_analytics: G-SHW2YHJ77E
+
+remote_theme: christianezeani/panthera-jekyll
+
+# Create a sitemap for Google search console.
+plugins:
+  - jekyll-sitemap
+
+gems:
+- jekyll-seo-tag
+
+# left_side:
+#   background_color: "#522D80"
+#   close_button_color: "#522D80"

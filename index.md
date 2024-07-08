@@ -1,17 +1,34 @@
 ---
 layout: default
-title: Yu Zhang
-permalink: /
 ---
 
-<img class="right" src="/images/me.jpg" alt="xxxx" title="xxxx" />
+# About Me
+
+I am a Ph.D. student in Mechanical Engineering at McMaster University.
+
+My research focuses on.
 
 
-# Yu Zhang
 
-I'm a Ph.D student at McMaster University.
+I obtained my Ph.D.  You can find my CV [<u>here</u>](/docs/CV_Yu Zhang.pdf).
 
-By day I'm an engineering manager and software engineer at [Canonical](https://canonical.com/) -- see my [resume/CV](/cv/).
+Please contact me at: <img src ="/images/XXX.png" alt = "email image"/>
 
-I've created a few open source [projects](/projects/), and I enjoy writing [technical](/writings/) and [non-technical](/writings/non-tech/) articles.
 
+
+### <em>Research Interests</em>{: style="color: rgb(17, 30, 108); opacity: 1.00;" }
+
+* Application areas: XXX
+
+* Methodologies: XXX
+
+
+
+----------------
+
+
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
