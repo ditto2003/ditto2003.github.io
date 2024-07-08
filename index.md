@@ -10,7 +10,7 @@ My research focuses on.
 
 
 
-I obtained my Ph.D.  You can find my CV [<u>here</u>](/docs/CV_Yu Zhang.pdf).
+I obtained my Ph.D.  You can find my CV [<u>here</u>](/docs/CV_YuZhang.pdf).
 
 Please contact me at: <img src ="/images/XXX.png" alt = "email image"/>
 
