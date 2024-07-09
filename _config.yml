@@ -23,9 +23,9 @@ menu:
     link: /resume
     icon: ""
 
-  - text: Contact Me
-    link: /contact
-    icon: ""
+  # - text: Contact Me
+  #   link: /contact
+  #   icon: ""
 # Socialmedia Icons
 social_icons:
   - name: linkedin
@@ -33,7 +33,7 @@ social_icons:
     icon: fab fa-linkedin
     
   - name: google_scholar
-    link: https://scholar.google.com/xxx
+    link: https://https://scholar.google.com/citations?hl=en&tzom=240&user=eLEOdtcAAAAJ
     icon: fab fa-google
 
   # - name: twitter
@@ -63,6 +63,6 @@ plugins:
 gems:
 - jekyll-seo-tag
 
-# left_side:
-#   background_color: "#522D80"
-#   close_button_color: "#522D80"
+left_side:
+  background_color: "#77c2c7"
+  close_button_color: "#77c2c7"
