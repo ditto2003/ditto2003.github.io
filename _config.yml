@@ -33,7 +33,7 @@ social_icons:
     icon: fab fa-linkedin
     
   - name: google_scholar
-    link: https://https://scholar.google.com/citations?hl=en&tzom=240&user=eLEOdtcAAAAJ
+    link: https://scholar.google.com/citations?user=eLEOdtcAAAAJ&hl=en
     icon: fab fa-google
 
   # - name: twitter
