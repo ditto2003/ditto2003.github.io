@@ -13,8 +13,8 @@ layout: default
 
 <p>
 <div align="center">
-   <img width="49%"/ src="/images/lab_setup.png">
-   <img width="49%"/ src="/images/samples.JPG">
+   <img src="/images/lab_setup.png" width="49%">
+   <img src="/images/samples.JPG" width="49%">
 </div>
 </p>
 
@@ -27,8 +27,8 @@ layout: default
 
 <p>
 <div align="center">
-   <img width="49%"/ src="/images/Objects_det_2.jpg">
-   <img width="49%"/ src="/images/Objects_det.jpg">
+   <img width="49%" src="/images/Objects_det_2.jpg">
+   <img width="49%" src="/images/Objects_det.jpg">
 </div>
 </p>
 
