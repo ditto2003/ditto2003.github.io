@@ -13,8 +13,8 @@ layout: default
 
 <p>
 <div align="center">
-   <img src="/images/lab_setup.png">
-   <img src="/images/samples.JPG">
+   <img width="49%"/ src="/images/lab_setup.png">
+   <img width="49%"/ src="/images/samples.JPG">
 </div>
 </p>
 
@@ -27,8 +27,8 @@ layout: default
 
 <p>
 <div align="center">
-   <img src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample1.jpg"></a>
-   <img src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample2.jpg"></a>
+   <img width="49%"/ src="/images/Objects_det_2.jpg">
+   <img width="49%"/ src="/images/Objects_det.jpg">
 </div>
 </p>
 
