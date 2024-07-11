@@ -12,7 +12,7 @@ My research focuses on Fault Detection and Diagnosis (FDD) using model-based or 
 
 You can find my resume [<u>here</u>](/docs/CV_YuZhang.pdf).
 
-Please contact me at: ditto2014@yahoo.com
+Please contact me at: yuzhang8@yahoo.com
 
 
 
