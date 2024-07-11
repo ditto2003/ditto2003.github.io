@@ -10,11 +10,27 @@ layout: default
 
 * Haipin winding fault detection within electric motors using model-based or data-driven methodologies, including data-driven method, machine learning method, data augmentation, deep learning, and Transformer networks. Results are published in [[<u>paper 1</u>](https://ieeexplore.ieee.org/document/10533246)][[<u>paper 2</u>](https://ieeexplore.ieee.org/abstract/document/10231148)]
 
-![Lab setup](/images/lab_setup.png "Title")
 
-![Hairpin windings samples](/images/samples.jpg "Title")
+<p>
+<div align="center">
+   <img width="49%"/ src="/images/lab_setup.png"></a>
+   <img width="49%"/ src="/images/samples.JPG"></a>
+</div>
+</p>
+
+<!-- ![Lab setup](/images/lab_setup.png "Title")
+
+![Hairpin windings samples](/images/samples.JPG "Title") -->
 
 * Object detection for Autonomous using CNN, [[<u>Click Here</u>](https://github.com/ditto2003/SEP788-789)][[<u>Demo</u>](https://www.youtube.com/watch?v=wEODwX2QJz0)]
+
+
+<p>
+<div align="center">
+   <img width="49%"/ src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample1.jpg"></a>
+   <img width="49%"/ src="https://github.com/ditto2003/SEP788-789/blob/main/Samples/Md%20info/sample2.jpg"></a>
+</div>
+</p>
 
 &nbsp;
 &nbsp;
